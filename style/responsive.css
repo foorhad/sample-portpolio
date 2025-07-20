@@ -33,7 +33,31 @@
         margin-bottom: 5px 0px;
     }
 
-    .about-items {
+    .about-items,
+    .banner {
         flex-direction: column;
+    }
+
+    header {
+        background-image: none;
+    }
+
+    .banner-image {
+        width: 100%;
+    }
+
+    .banner {
+        margin: 0px;
+    }
+
+    nav {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    nav ul {
+        flex-direction: column;
+        gap: 10px;
     }
 }

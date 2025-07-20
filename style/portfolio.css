@@ -8,10 +8,8 @@
 
 /* header */
 header {
-    max-width: 100%;
     padding: 20px;
     background-color: #FFFDD0;
-    margin-top: 0px;
     background-image: url(../images/developer.png), url(../images/header_bg.png);
     background-repeat: no-repeat;
     background-position: top left, bottom right;
@@ -30,8 +28,6 @@ nav {
 }
 
 
-
-
 .primary-color {
     color: #fd6e0a;
 }
@@ -47,10 +43,8 @@ nav {
 }
 
 
-
 nav ul li {
     list-style: none;
-
 }
 
 nav ul li a {
